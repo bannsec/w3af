@@ -64,7 +64,6 @@ top-1m.csv.zip
 
 # docker build temp files
 /.dockerignore
-/Dockerfile
 
 # To make testing easier
 test.w3af
